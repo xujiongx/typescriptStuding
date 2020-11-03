@@ -1,0 +1,60 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.d.ts": {
+        "version": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "signature": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "affectsGlobalScope": false
+      },
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "./src/demo.ts": {
+        "version": "2894d9ebcee988bdaf13c4a49e5a13c5e6bc50903bf8f2b205cda4ff06750125",
+        "signature": "2ac8653255544dcb15f4ba2b08d3463497b3237c492ad31adcad69edf0eed643",
+        "affectsGlobalScope": true
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 1,
+      "module": 1,
+      "outDir": "./build",
+      "rootDir": "./src",
+      "removeComments": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.d.ts",
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../appdata/roaming/nvm/v14.4.0/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "./src/demo.ts"
+    ]
+  },
+  "version": "4.0.2"
+}
